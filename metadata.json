@@ -1,0 +1,6 @@
+{
+  "name": "Portal Institucional LICATEBA",
+  "description": "Portal Web Institucional y Periódico Escolar Digital del Liceo Católico Tecnológico de Barahona con integración Google Workspace, Google Sites y Google Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
